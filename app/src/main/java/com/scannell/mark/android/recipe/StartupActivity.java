@@ -1,4 +1,4 @@
-package com.scannell.mark.recipe;
+package com.scannell.mark.android.recipe;
 
 import android.annotation.SuppressLint;
 import android.content.Intent;
